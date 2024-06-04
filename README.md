@@ -33,5 +33,3 @@ Thank you for being part of this incredible journey. Your feedback and enthusias
 
 Your's
 Krish Naik
-
-MAke sure to relaign this message wwith lot of sentiments and update the read me file
